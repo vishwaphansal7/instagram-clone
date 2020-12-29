@@ -1,27 +1,13 @@
-# Welcome to InstagramClone 👋
-![Version](https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simcoder_here)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simcoder_here/)
-[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
 
-> Main repository of the SimCoder's youtube series &#34;Make an App like INSTAGRAM&#34;
 
 Make a web app Like INSTAGRAM
 
-I'll show you how you can do this in the simplest way and terms possible.
 
-By the end of this series you'll have learned how the big companies do it and will be able to do the same, you not only will be able to do this app, but you'll be able to put what you learn into your very own projects!
-
-Any question, ask me in the Forum, every question gets an answer! http://www.simcoder.com/forum
 
 This project will be made using react native, firebase firestore, firebase storage, redux, expo, along with a lot of other packages and technologies which will help us get this Instagram clone app up and running as fast as possible.
 
-### 📺 [**View the youtube tutorial series here**](https://www.youtube.com/watch?v=xE8UEX7vXVQ&list=PLxabZQCAe5fgatwOQny9wKJVs4YD6xkf1)
 
-### 😎 [**Get the premium version of this project**](https://www.simcoder.com/product/instagram-redesign/)
-<br>
+
 
 ## ➕ Features
 
@@ -88,29 +74,4 @@ expo start
 
 <br>
 
-## 💙  question FAQ
 
-If you have any question then please use the following [Forum](https://www.simcoder.com/forum/instagram/).
-
-<br>
-
-## 👤 Author
-
-**SimCoder**
-
-* Website: www.simcoder.com
-* Twitter: [@simcoder\_here](https://twitter.com/simcoder\_here)
-* Github: [@simcoderYoutube](https://github.com/simcoderYoutube)
-* Youtube: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
-
-## 🌟 Show your support
-
-
-Give a ⭐️ if this project helped you!
-
-
-## 📝 License
-
-Copyright © 2020 [SimCoder](https://github.com/simcoderYoutube).
-
-This project is [Apache License 2.0](https://github.com/SimCoderYoutube/InstagramClone/blob/master/LICENSE) licensed. Some of the dependencies are licensed differently.
